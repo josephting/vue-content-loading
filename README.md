@@ -1,29 +1,34 @@
-# Vue Content Loading
+# vue-content-loading
 
-### Vue component to easily build or use presets for Facebook-like SVG loading cards.
+## Project setup
+```
+npm install
+```
 
-> Inspired in [React Content Loader](https://github.com/danilowoz/react-content-loader)
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-## So how does it look like?
+### Compiles and minifies for production
+```
+npm run build
+```
 
-Facebook
+### Run your tests
+```
+npm run test
+```
 
-![Facebook loading](https://raw.githubusercontent.com/LucasLeandro1204/vue-content-loading/master/static/facebook.gif "Facebook loading")
+### Lints and fixes files
+```
+npm run lint
+```
 
-Code
+### Run your unit tests
+```
+npm run test:unit
+```
 
-![Code loading](https://raw.githubusercontent.com/LucasLeandro1204/vue-content-loading/master/static/code.gif "Code loading")
-
-# Documentation & Examples
-
-Documentation with all presets is available [HERE](https://lucasleandro1204.github.io/vue-content-loading)
-
-## Installation
-
-Simple installation via NPM
-
-``$ npm install vue-content-loading --save``
-
-##### License
-
-This project is licensed under the MIT license. See the [LICENSE file](./LICENSE) for more details
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
