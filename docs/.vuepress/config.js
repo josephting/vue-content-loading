@@ -82,4 +82,6 @@ module.exports = {
       },
     ],
   ],
+  home: true,
+  heroImage: '/logo.png',
 };
